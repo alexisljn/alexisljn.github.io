@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: alexisljn.github.io
+Token: e8bb30dc40c8569f9123fcf8a14481e3592b6eaeae884296c88efea36b6cb6f1
